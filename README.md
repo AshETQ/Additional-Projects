@@ -1,4 +1,4 @@
-# Additional-Projects
+# 💬 Additional Projects- Contact me for further information on any of these!! 💬
 Includes: MiniBobcat Concepts, PropBoB, Mechatronics and Art, Senior Design, other side research
 
 
@@ -41,7 +41,11 @@ The DAVE platforms were created in collaboration with another graduate student a
 One of the lab problems (added mass example) of the DAVEs:
 ![ss5](https://github.com/AshETQ/Additional-Projects/blob/91b4728b7978cdecb6df86dc183d3ddc169bb330/Images/addedmass.png)
 
-# 💬 Contact me for further information on any of these!! 💬
+# Senior Design- Creating a Flax Fiber Composite
+
+My senior design team researched and worked to physically create a flax fiber based composite with eco-friendly resin for Sikorsky Aircraft. Our sponsor tasked us to characterize the composite to explore its possible use on an aircraft. My team created multiple samples and characterized each through tensile, compression, vibration, and sheer testing. We won second place in our senior design day poster presentation expo! 
+
+__________________________________________________________________________________________________________________________________
 
 ### Personal Projects
 I sew! And make props through more unconventional materials. I incorporate some resin printing, resin casting, thermoplastic molding, and leds into some of my costuming builds, but I enjoy getting hands on with other materials. Resing printing is usually reserved for making TTRPG miniatures. I have also been exploring book-binding - I want create a custom version of my dissertation some day soon!  I tend to collect hobbies, and enjoy collecting knowledge about many things. Another page for personal projects is under development 🧵
