@@ -8,9 +8,6 @@ I created MiniBobcat as a prototype for an "under 1 kg"/half scaled version of t
 
 ![ss](https://github.com/AshETQ/Additional-Projects/blob/91b4728b7978cdecb6df86dc183d3ddc169bb330/Images/mbcOverview2.png)
 
-## 🎥 In (shaky) Action! (Uploading soon)
-
-See how MBC moves! <a href="https://bigidea.nianet.org/past-competition-themes/2022-forum-results/" target="_blank">**HERE** </a>.
 
 # PropBoB 
 
