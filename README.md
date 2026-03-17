@@ -11,7 +11,7 @@ I created MiniBobcat as a prototype for an "under 1 kg"/half scaled version of t
 
 # PropBoB 
 
-PropBoB was an experimental design to add a propellor onto the <a href="https://bigidea.nianet.org/past-competition-themes/2022-forum-results/" target="_blank">**BoB Family** </a> of climbing robots, with the goal to drive the robot further into the wall for stabilization. This work was not published, but results were used to aide student's research.
+PropBoB was an experimental design to add a propellor onto the <a href="https://ieeexplore.ieee.org/document/8594074/" target="_blank">**BoB Family** </a> of climbing robots, with the goal to drive the robot further into the wall for stabilization. This work was not published, but results were used to aide student's research.
 ![ss2](https://github.com/AshETQ/Additional-Projects/blob/91b4728b7978cdecb6df86dc183d3ddc169bb330/Images/propbob.png)
 
 
